@@ -16,7 +16,7 @@ async function main(playerId) {
     console.log(`Gathering information for player with id - ${playerId}`)
 
     var spinner = new Spinner('%s');
-    spinner.setSpinnerString('|/-\\');
+    spinner.setSpinnerString("⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏");
     spinner.start()
 
     const browser = await playwright.chromium.launch({
@@ -26,8 +26,10 @@ async function main(playerId) {
     const page = await browser.newPage();
     await page.goto(`${target}${playerId}#/matches`);
     await page.locator('data-testid=uc-accept-all-button').click();
-    spinner.clearLine()
+    
+    spinner.stop(true);
     console.log("Ordering data")
+    spinner.start()
 
     const data = [];
     const tableRows = await page.$$('div#match-list-outer table tbody tr')
@@ -53,8 +55,8 @@ async function main(playerId) {
         data.push(row);
         count++;
     }
-    spinner.clearLine();
-    spinner.stop();
+
+    spinner.stop(true);
 
     const total = data.length;
     const banned = data.filter((d) => d.isBanned).length;
@@ -65,12 +67,12 @@ async function main(playerId) {
     const chunkSize = total / ratio;
     const prevalence = banned / chunkSize;
 
-    console.log("\nComplete")
+    console.log("Complete")
     console.table([
-        { name: 'Total', value: String(total) },
-        { name: 'Banned', value: String(banned) },
-        { name: 'Percentage', value: `${banPercentage.toFixed(2)}%` },
-        { name: 'Prevalence', value: `${prevalence.toFixed(0)} out of ${ratio}` }
+        { name: 'Total Matches', value: String(total) },
+        { name: 'Total Banned Matches', value: String(banned) },
+        { name: 'Percentage of banned matches', value: `${banPercentage.toFixed(2)}%` },
+        { name: 'Prevalence of hackers in matches', value: `${prevalence.toFixed(0)} out of ${ratio}` }
     ])
 
     process.exit(0);
