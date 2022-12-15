@@ -1,0 +1,3551 @@
+[
+    {
+        "id": 0,
+        "date": "Sun 11th Dec 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:9"
+    },
+    {
+        "id": 1,
+        "date": "Tue 4th Oct 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 2,
+        "date": "Wed 21st Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 3,
+        "date": "Wed 21st Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 4,
+        "date": "Tue 20th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 5,
+        "date": "Mon 19th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 6,
+        "date": "Thu 15th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 7,
+        "date": "Wed 14th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 8,
+        "date": "Wed 14th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 9,
+        "date": "Tue 13th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 10,
+        "date": "Sun 11th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 11,
+        "date": "Sun 11th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 12,
+        "date": "Sat 10th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 13,
+        "date": "Fri 9th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 14,
+        "date": "Fri 9th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:16"
+    },
+    {
+        "id": 15,
+        "date": "Thu 8th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 16,
+        "date": "Thu 8th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 17,
+        "date": "Wed 7th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 18,
+        "date": "Tue 6th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 19,
+        "date": "Tue 6th Sep 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "7:16"
+    },
+    {
+        "id": 20,
+        "date": "Tue 6th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 21,
+        "date": "Tue 6th Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "3:16"
+    },
+    {
+        "id": 22,
+        "date": "Thu 1st Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "1:9"
+    },
+    {
+        "id": 23,
+        "date": "Thu 1st Sep 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:8"
+    },
+    {
+        "id": 24,
+        "date": "Wed 31st Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "10:16"
+    },
+    {
+        "id": 25,
+        "date": "Mon 29th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 26,
+        "date": "Thu 25th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 27,
+        "date": "Tue 23rd Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 28,
+        "date": "Tue 23rd Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 29,
+        "date": "Tue 23rd Aug 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "9:16"
+    },
+    {
+        "id": 30,
+        "date": "Mon 22nd Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 31,
+        "date": "Sun 21st Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 32,
+        "date": "Sat 20th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 33,
+        "date": "Sat 20th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:5"
+    },
+    {
+        "id": 34,
+        "date": "Sat 20th Aug 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "9:5"
+    },
+    {
+        "id": 35,
+        "date": "Sat 20th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:2"
+    },
+    {
+        "id": 36,
+        "date": "Sat 20th Aug 22",
+        "isBanned": false,
+        "map": "de_tuscan",
+        "score": "1:5"
+    },
+    {
+        "id": 37,
+        "date": "Fri 19th Aug 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:11"
+    },
+    {
+        "id": 38,
+        "date": "Thu 18th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 39,
+        "date": "Thu 18th Aug 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 40,
+        "date": "Tue 16th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 41,
+        "date": "Tue 16th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:16"
+    },
+    {
+        "id": 42,
+        "date": "Mon 15th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 43,
+        "date": "Sun 14th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 44,
+        "date": "Sun 14th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 45,
+        "date": "Sun 14th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 46,
+        "date": "Sat 13th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 47,
+        "date": "Sat 13th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 48,
+        "date": "Fri 12th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 49,
+        "date": "Fri 12th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 50,
+        "date": "Wed 10th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 51,
+        "date": "Wed 10th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 52,
+        "date": "Tue 9th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 53,
+        "date": "Mon 8th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 54,
+        "date": "Mon 8th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 55,
+        "date": "Mon 8th Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:1"
+    },
+    {
+        "id": 56,
+        "date": "Mon 8th Aug 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "6:9"
+    },
+    {
+        "id": 57,
+        "date": "Mon 1st Aug 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:8"
+    },
+    {
+        "id": 58,
+        "date": "Mon 1st Aug 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:8"
+    },
+    {
+        "id": 59,
+        "date": "Mon 1st Aug 22",
+        "isBanned": true,
+        "map": "de_vertigo",
+        "score": "1:16"
+    },
+    {
+        "id": 60,
+        "date": "Mon 1st Aug 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:2"
+    },
+    {
+        "id": 61,
+        "date": "Sun 31st Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 62,
+        "date": "Sun 31st Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "1:16"
+    },
+    {
+        "id": 63,
+        "date": "Sun 31st Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 64,
+        "date": "Sat 30th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 65,
+        "date": "Sat 30th Jul 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "4:16"
+    },
+    {
+        "id": 66,
+        "date": "Sat 30th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 67,
+        "date": "Fri 29th Jul 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:14"
+    },
+    {
+        "id": 68,
+        "date": "Fri 29th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 69,
+        "date": "Fri 29th Jul 22",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:6"
+    },
+    {
+        "id": 70,
+        "date": "Fri 29th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "10:16"
+    },
+    {
+        "id": 71,
+        "date": "Wed 27th Jul 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:5"
+    },
+    {
+        "id": 72,
+        "date": "Wed 27th Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 73,
+        "date": "Mon 25th Jul 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "10:16"
+    },
+    {
+        "id": 74,
+        "date": "Sun 24th Jul 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "16:11"
+    },
+    {
+        "id": 75,
+        "date": "Sun 24th Jul 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "16:2"
+    },
+    {
+        "id": 76,
+        "date": "Sun 24th Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 77,
+        "date": "Sun 24th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 78,
+        "date": "Sun 24th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 79,
+        "date": "Thu 21st Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "10:16"
+    },
+    {
+        "id": 80,
+        "date": "Wed 20th Jul 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "15:15"
+    },
+    {
+        "id": 81,
+        "date": "Wed 20th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 82,
+        "date": "Tue 19th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 83,
+        "date": "Mon 18th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 84,
+        "date": "Sun 17th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "3:16"
+    },
+    {
+        "id": 85,
+        "date": "Sun 17th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 86,
+        "date": "Sun 17th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 87,
+        "date": "Fri 15th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 88,
+        "date": "Wed 13th Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "4:16"
+    },
+    {
+        "id": 89,
+        "date": "Wed 13th Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "11:3"
+    },
+    {
+        "id": 90,
+        "date": "Tue 12th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 91,
+        "date": "Mon 11th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "5:9"
+    },
+    {
+        "id": 92,
+        "date": "Mon 11th Jul 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:2"
+    },
+    {
+        "id": 93,
+        "date": "Sun 10th Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "5:16"
+    },
+    {
+        "id": 94,
+        "date": "Sun 10th Jul 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "16:11"
+    },
+    {
+        "id": 95,
+        "date": "Fri 1st Jul 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 96,
+        "date": "Fri 1st Jul 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "15:15"
+    },
+    {
+        "id": 97,
+        "date": "Thu 30th Jun 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:11"
+    },
+    {
+        "id": 98,
+        "date": "Thu 30th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 99,
+        "date": "Wed 29th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "8:0"
+    },
+    {
+        "id": 100,
+        "date": "Wed 29th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 101,
+        "date": "Wed 29th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "5:9"
+    },
+    {
+        "id": 102,
+        "date": "Wed 29th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 103,
+        "date": "Tue 28th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 104,
+        "date": "Tue 28th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 105,
+        "date": "Tue 28th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 106,
+        "date": "Mon 27th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 107,
+        "date": "Mon 27th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 108,
+        "date": "Sun 26th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 109,
+        "date": "Sun 26th Jun 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "13:16"
+    },
+    {
+        "id": 110,
+        "date": "Sun 26th Jun 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:5"
+    },
+    {
+        "id": 111,
+        "date": "Sun 26th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 112,
+        "date": "Sat 25th Jun 22",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "11:16"
+    },
+    {
+        "id": 113,
+        "date": "Sat 25th Jun 22",
+        "isBanned": true,
+        "map": "de_vertigo",
+        "score": "16:6"
+    },
+    {
+        "id": 114,
+        "date": "Sat 25th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 115,
+        "date": "Sat 25th Jun 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "11:16"
+    },
+    {
+        "id": 116,
+        "date": "Fri 17th Jun 22",
+        "isBanned": true,
+        "map": "de_train",
+        "score": "14:16"
+    },
+    {
+        "id": 117,
+        "date": "Fri 17th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 118,
+        "date": "Thu 16th Jun 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "2:16"
+    },
+    {
+        "id": 119,
+        "date": "Thu 16th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 120,
+        "date": "Wed 15th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 121,
+        "date": "Wed 15th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 122,
+        "date": "Tue 14th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 123,
+        "date": "Tue 14th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 124,
+        "date": "Tue 14th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 125,
+        "date": "Tue 14th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:1"
+    },
+    {
+        "id": 126,
+        "date": "Mon 13th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 127,
+        "date": "Mon 13th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 128,
+        "date": "Sun 12th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 129,
+        "date": "Sun 12th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:1"
+    },
+    {
+        "id": 130,
+        "date": "Sat 11th Jun 22",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "9:16"
+    },
+    {
+        "id": 131,
+        "date": "Sat 11th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 132,
+        "date": "Sat 11th Jun 22",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "11:16"
+    },
+    {
+        "id": 133,
+        "date": "Sat 11th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 134,
+        "date": "Sat 11th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 135,
+        "date": "Sat 11th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 136,
+        "date": "Thu 9th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 137,
+        "date": "Thu 9th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 138,
+        "date": "Wed 8th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 139,
+        "date": "Wed 8th Jun 22",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "16:12"
+    },
+    {
+        "id": 140,
+        "date": "Wed 8th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 141,
+        "date": "Wed 8th Jun 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 142,
+        "date": "Wed 8th Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 143,
+        "date": "Fri 3rd Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "10:16"
+    },
+    {
+        "id": 144,
+        "date": "Thu 2nd Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 145,
+        "date": "Thu 2nd Jun 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:8"
+    },
+    {
+        "id": 146,
+        "date": "Thu 2nd Jun 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 147,
+        "date": "Tue 31st May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 148,
+        "date": "Tue 31st May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 149,
+        "date": "Mon 30th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 150,
+        "date": "Mon 30th May 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "5:16"
+    },
+    {
+        "id": 151,
+        "date": "Mon 23rd May 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 152,
+        "date": "Sun 22nd May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:16"
+    },
+    {
+        "id": 153,
+        "date": "Thu 19th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 154,
+        "date": "Thu 19th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 155,
+        "date": "Tue 17th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "1:9"
+    },
+    {
+        "id": 156,
+        "date": "Mon 16th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 157,
+        "date": "Sun 15th May 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 158,
+        "date": "Wed 11th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 159,
+        "date": "Mon 9th May 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:9"
+    },
+    {
+        "id": 160,
+        "date": "Mon 9th May 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "5:16"
+    },
+    {
+        "id": 161,
+        "date": "Sun 8th May 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:2"
+    },
+    {
+        "id": 162,
+        "date": "Wed 20th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 163,
+        "date": "Tue 19th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 164,
+        "date": "Tue 19th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 165,
+        "date": "Mon 18th Apr 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "12:16"
+    },
+    {
+        "id": 166,
+        "date": "Mon 18th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 167,
+        "date": "Sun 17th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 168,
+        "date": "Sun 17th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 169,
+        "date": "Sat 16th Apr 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:8"
+    },
+    {
+        "id": 170,
+        "date": "Sat 16th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:2"
+    },
+    {
+        "id": 171,
+        "date": "Sat 16th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 172,
+        "date": "Fri 15th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 173,
+        "date": "Fri 15th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 174,
+        "date": "Fri 15th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 175,
+        "date": "Thu 14th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 176,
+        "date": "Thu 14th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 177,
+        "date": "Wed 13th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 178,
+        "date": "Tue 12th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 179,
+        "date": "Mon 11th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 180,
+        "date": "Mon 11th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 181,
+        "date": "Sat 9th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 182,
+        "date": "Fri 8th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 183,
+        "date": "Thu 7th Apr 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "2:16"
+    },
+    {
+        "id": 184,
+        "date": "Thu 7th Apr 22",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "16:13"
+    },
+    {
+        "id": 185,
+        "date": "Thu 7th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 186,
+        "date": "Wed 6th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 187,
+        "date": "Wed 6th Apr 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "16:9"
+    },
+    {
+        "id": 188,
+        "date": "Wed 6th Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 189,
+        "date": "Tue 5th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 190,
+        "date": "Mon 4th Apr 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 191,
+        "date": "Mon 4th Apr 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "13:16"
+    },
+    {
+        "id": 192,
+        "date": "Sun 3rd Apr 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:7"
+    },
+    {
+        "id": 193,
+        "date": "Sun 3rd Apr 22",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:5"
+    },
+    {
+        "id": 194,
+        "date": "Sat 2nd Apr 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 195,
+        "date": "Thu 31st Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 196,
+        "date": "Thu 31st Mar 22",
+        "isBanned": true,
+        "map": "de_nuke",
+        "score": "6:16"
+    },
+    {
+        "id": 197,
+        "date": "Wed 30th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 198,
+        "date": "Wed 30th Mar 22",
+        "isBanned": true,
+        "map": "de_nuke",
+        "score": "16:12"
+    },
+    {
+        "id": 199,
+        "date": "Tue 29th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 200,
+        "date": "Tue 29th Mar 22",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "12:16"
+    },
+    {
+        "id": 201,
+        "date": "Tue 29th Mar 22",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "12:16"
+    },
+    {
+        "id": 202,
+        "date": "Mon 28th Mar 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "16:12"
+    },
+    {
+        "id": 203,
+        "date": "Mon 28th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:16"
+    },
+    {
+        "id": 204,
+        "date": "Sun 27th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 205,
+        "date": "Sun 27th Mar 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "16:5"
+    },
+    {
+        "id": 206,
+        "date": "Sat 26th Mar 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:12"
+    },
+    {
+        "id": 207,
+        "date": "Fri 25th Mar 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "11:16"
+    },
+    {
+        "id": 208,
+        "date": "Fri 25th Mar 22",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "16:13"
+    },
+    {
+        "id": 209,
+        "date": "Fri 25th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 210,
+        "date": "Thu 24th Mar 22",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:12"
+    },
+    {
+        "id": 211,
+        "date": "Thu 24th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 212,
+        "date": "Wed 23rd Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "15:15"
+    },
+    {
+        "id": 213,
+        "date": "Wed 23rd Mar 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "16:5"
+    },
+    {
+        "id": 214,
+        "date": "Tue 22nd Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 215,
+        "date": "Tue 22nd Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "3:16"
+    },
+    {
+        "id": 216,
+        "date": "Mon 21st Mar 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 217,
+        "date": "Sun 20th Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "12:16"
+    },
+    {
+        "id": 218,
+        "date": "Sat 19th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 219,
+        "date": "Fri 18th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 220,
+        "date": "Fri 18th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 221,
+        "date": "Fri 18th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 222,
+        "date": "Thu 17th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 223,
+        "date": "Wed 16th Mar 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:3"
+    },
+    {
+        "id": 224,
+        "date": "Wed 16th Mar 22",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "6:16"
+    },
+    {
+        "id": 225,
+        "date": "Wed 16th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 226,
+        "date": "Wed 16th Mar 22",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "15:15"
+    },
+    {
+        "id": 227,
+        "date": "Wed 16th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 228,
+        "date": "Wed 16th Mar 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 229,
+        "date": "Tue 15th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "4:16"
+    },
+    {
+        "id": 230,
+        "date": "Tue 15th Mar 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 231,
+        "date": "Mon 14th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "0:16"
+    },
+    {
+        "id": 232,
+        "date": "Mon 14th Mar 22",
+        "isBanned": true,
+        "map": "de_cache",
+        "score": "11:16"
+    },
+    {
+        "id": 233,
+        "date": "Sun 13th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 234,
+        "date": "Sun 13th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 235,
+        "date": "Sun 13th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 236,
+        "date": "Sun 13th Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "7:16"
+    },
+    {
+        "id": 237,
+        "date": "Fri 11th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 238,
+        "date": "Thu 10th Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "6:16"
+    },
+    {
+        "id": 239,
+        "date": "Thu 10th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 240,
+        "date": "Wed 9th Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:10"
+    },
+    {
+        "id": 241,
+        "date": "Wed 9th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 242,
+        "date": "Wed 9th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 243,
+        "date": "Tue 8th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 244,
+        "date": "Tue 8th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 245,
+        "date": "Tue 8th Mar 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "10:4"
+    },
+    {
+        "id": 246,
+        "date": "Tue 8th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:16"
+    },
+    {
+        "id": 247,
+        "date": "Mon 7th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 248,
+        "date": "Sun 6th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 249,
+        "date": "Sun 6th Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 250,
+        "date": "Sun 6th Mar 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 251,
+        "date": "Sun 6th Mar 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 252,
+        "date": "Thu 3rd Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 253,
+        "date": "Wed 2nd Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 254,
+        "date": "Wed 2nd Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 255,
+        "date": "Tue 1st Mar 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 256,
+        "date": "Mon 28th Feb 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "15:15"
+    },
+    {
+        "id": 257,
+        "date": "Mon 28th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:4"
+    },
+    {
+        "id": 258,
+        "date": "Sun 27th Feb 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:14"
+    },
+    {
+        "id": 259,
+        "date": "Sun 27th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 260,
+        "date": "Tue 22nd Feb 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "12:16"
+    },
+    {
+        "id": 261,
+        "date": "Tue 22nd Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 262,
+        "date": "Mon 21st Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 263,
+        "date": "Mon 21st Feb 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "1:9"
+    },
+    {
+        "id": 264,
+        "date": "Sun 13th Feb 22",
+        "isBanned": false,
+        "map": "cs_insertion2",
+        "score": "3:9"
+    },
+    {
+        "id": 265,
+        "date": "Sun 13th Feb 22",
+        "isBanned": false,
+        "map": "cs_insertion2",
+        "score": "2:9"
+    },
+    {
+        "id": 266,
+        "date": "Sun 13th Feb 22",
+        "isBanned": true,
+        "map": "cs_insertion2",
+        "score": "4:9"
+    },
+    {
+        "id": 267,
+        "date": "Fri 11th Feb 22",
+        "isBanned": false,
+        "map": "cs_insertion2",
+        "score": "5:9"
+    },
+    {
+        "id": 268,
+        "date": "Wed 9th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 269,
+        "date": "Tue 8th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:16"
+    },
+    {
+        "id": 270,
+        "date": "Sun 6th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "1:8"
+    },
+    {
+        "id": 271,
+        "date": "Sun 6th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 272,
+        "date": "Sun 6th Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 273,
+        "date": "Sun 6th Feb 22",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "8:8"
+    },
+    {
+        "id": 274,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "9:3"
+    },
+    {
+        "id": 275,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "9:7"
+    },
+    {
+        "id": 276,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "8:8"
+    },
+    {
+        "id": 277,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "3:9"
+    },
+    {
+        "id": 278,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "9:5"
+    },
+    {
+        "id": 279,
+        "date": "Sat 5th Feb 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "8:8"
+    },
+    {
+        "id": 280,
+        "date": "Fri 4th Feb 22",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "6:9"
+    },
+    {
+        "id": 281,
+        "date": "Fri 4th Feb 22",
+        "isBanned": true,
+        "map": "de_vertigo",
+        "score": "9:4"
+    },
+    {
+        "id": 282,
+        "date": "Fri 4th Feb 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "5:9"
+    },
+    {
+        "id": 283,
+        "date": "Fri 4th Feb 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "6:9"
+    },
+    {
+        "id": 284,
+        "date": "Wed 2nd Feb 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 285,
+        "date": "Mon 31st Jan 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 286,
+        "date": "Sun 30th Jan 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 287,
+        "date": "Sun 30th Jan 22",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "11:16"
+    },
+    {
+        "id": 288,
+        "date": "Sun 30th Jan 22",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "10:16"
+    },
+    {
+        "id": 289,
+        "date": "Sun 16th Jan 22",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "0:9"
+    },
+    {
+        "id": 290,
+        "date": "Sun 16th Jan 22",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 291,
+        "date": "Sun 12th Dec 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "3:16"
+    },
+    {
+        "id": 292,
+        "date": "Sun 12th Dec 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 293,
+        "date": "Sun 31st Oct 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 294,
+        "date": "Fri 22nd Oct 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "5:9"
+    },
+    {
+        "id": 295,
+        "date": "Fri 22nd Oct 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "8:8"
+    },
+    {
+        "id": 296,
+        "date": "Thu 21st Oct 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "9:6"
+    },
+    {
+        "id": 297,
+        "date": "Wed 20th Oct 21",
+        "isBanned": false,
+        "map": "cs_insertion2",
+        "score": "3:9"
+    },
+    {
+        "id": 298,
+        "date": "Sun 10th Oct 21",
+        "isBanned": false,
+        "map": "de_ancient",
+        "score": "16:10"
+    },
+    {
+        "id": 299,
+        "date": "Sun 10th Oct 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "11:16"
+    },
+    {
+        "id": 300,
+        "date": "Sun 10th Oct 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 301,
+        "date": "Sat 9th Oct 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:10"
+    },
+    {
+        "id": 302,
+        "date": "Sat 9th Oct 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "3:14"
+    },
+    {
+        "id": 303,
+        "date": "Sun 3rd Oct 21",
+        "isBanned": false,
+        "map": "cs_insertion2",
+        "score": "2:9"
+    },
+    {
+        "id": 304,
+        "date": "Sun 3rd Oct 21",
+        "isBanned": false,
+        "map": "de_basalt",
+        "score": "9:2"
+    },
+    {
+        "id": 305,
+        "date": "Sat 2nd Oct 21",
+        "isBanned": false,
+        "map": "de_basalt",
+        "score": "3:9"
+    },
+    {
+        "id": 306,
+        "date": "Fri 1st Oct 21",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "16:6"
+    },
+    {
+        "id": 307,
+        "date": "Fri 1st Oct 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:1"
+    },
+    {
+        "id": 308,
+        "date": "Fri 1st Oct 21",
+        "isBanned": false,
+        "map": "de_basalt",
+        "score": "8:8"
+    },
+    {
+        "id": 309,
+        "date": "Wed 22nd Sep 21",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "9:3"
+    },
+    {
+        "id": 310,
+        "date": "Wed 22nd Sep 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:7"
+    },
+    {
+        "id": 311,
+        "date": "Wed 22nd Sep 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "6:9"
+    },
+    {
+        "id": 312,
+        "date": "Sat 18th Sep 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 313,
+        "date": "Sat 18th Sep 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "4:15"
+    },
+    {
+        "id": 314,
+        "date": "Tue 14th Sep 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 315,
+        "date": "Sun 5th Sep 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "9:16"
+    },
+    {
+        "id": 316,
+        "date": "Sat 28th Aug 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "5:16"
+    },
+    {
+        "id": 317,
+        "date": "Sat 28th Aug 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:11"
+    },
+    {
+        "id": 318,
+        "date": "Thu 26th Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "8:16"
+    },
+    {
+        "id": 319,
+        "date": "Wed 25th Aug 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 320,
+        "date": "Mon 23rd Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "10:16"
+    },
+    {
+        "id": 321,
+        "date": "Mon 23rd Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 322,
+        "date": "Mon 23rd Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 323,
+        "date": "Thu 19th Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 324,
+        "date": "Tue 17th Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 325,
+        "date": "Mon 16th Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 326,
+        "date": "Fri 6th Aug 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 327,
+        "date": "Tue 3rd Aug 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "3:16"
+    },
+    {
+        "id": 328,
+        "date": "Tue 3rd Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 329,
+        "date": "Sun 1st Aug 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "11:16"
+    },
+    {
+        "id": 330,
+        "date": "Sun 1st Aug 21",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "16:13"
+    },
+    {
+        "id": 331,
+        "date": "Sun 1st Aug 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 332,
+        "date": "Mon 5th Jul 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 333,
+        "date": "Tue 29th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "6:16"
+    },
+    {
+        "id": 334,
+        "date": "Tue 29th Jun 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:12"
+    },
+    {
+        "id": 335,
+        "date": "Sat 26th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 336,
+        "date": "Fri 25th Jun 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "8:16"
+    },
+    {
+        "id": 337,
+        "date": "Thu 24th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 338,
+        "date": "Thu 24th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 339,
+        "date": "Thu 24th Jun 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 340,
+        "date": "Mon 21st Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 341,
+        "date": "Sun 20th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "9:16"
+    },
+    {
+        "id": 342,
+        "date": "Sun 20th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 343,
+        "date": "Sun 20th Jun 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:12"
+    },
+    {
+        "id": 344,
+        "date": "Sun 20th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 345,
+        "date": "Sat 19th Jun 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "15:15"
+    },
+    {
+        "id": 346,
+        "date": "Fri 18th Jun 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "6:16"
+    },
+    {
+        "id": 347,
+        "date": "Fri 18th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 348,
+        "date": "Fri 18th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 349,
+        "date": "Fri 18th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "13:16"
+    },
+    {
+        "id": 350,
+        "date": "Thu 17th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 351,
+        "date": "Thu 17th Jun 21",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 352,
+        "date": "Thu 17th Jun 21",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:11"
+    },
+    {
+        "id": 353,
+        "date": "Thu 17th Jun 21",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "2:15"
+    },
+    {
+        "id": 354,
+        "date": "Thu 17th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:8"
+    },
+    {
+        "id": 355,
+        "date": "Wed 16th Jun 21",
+        "isBanned": false,
+        "map": "de_ancient",
+        "score": "10:6"
+    },
+    {
+        "id": 356,
+        "date": "Wed 16th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 357,
+        "date": "Tue 15th Jun 21",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "15:15"
+    },
+    {
+        "id": 358,
+        "date": "Tue 15th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 359,
+        "date": "Mon 14th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:10"
+    },
+    {
+        "id": 360,
+        "date": "Mon 14th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "13:8"
+    },
+    {
+        "id": 361,
+        "date": "Mon 14th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 362,
+        "date": "Mon 14th Jun 21",
+        "isBanned": false,
+        "map": "de_cache",
+        "score": "16:10"
+    },
+    {
+        "id": 363,
+        "date": "Sun 13th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 364,
+        "date": "Sun 13th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:5"
+    },
+    {
+        "id": 365,
+        "date": "Sun 13th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 366,
+        "date": "Sun 13th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 367,
+        "date": "Sun 13th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:2"
+    },
+    {
+        "id": 368,
+        "date": "Sat 12th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:15"
+    },
+    {
+        "id": 369,
+        "date": "Sat 12th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "7:0"
+    },
+    {
+        "id": 370,
+        "date": "Sat 12th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:6"
+    },
+    {
+        "id": 371,
+        "date": "Fri 11th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:10"
+    },
+    {
+        "id": 372,
+        "date": "Fri 11th Jun 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "14:7"
+    },
+    {
+        "id": 373,
+        "date": "Fri 11th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 374,
+        "date": "Fri 11th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "15:15"
+    },
+    {
+        "id": 375,
+        "date": "Wed 9th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:9"
+    },
+    {
+        "id": 376,
+        "date": "Wed 9th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "7:16"
+    },
+    {
+        "id": 377,
+        "date": "Wed 9th Jun 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "15:15"
+    },
+    {
+        "id": 378,
+        "date": "Tue 8th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 379,
+        "date": "Tue 8th Jun 21",
+        "isBanned": true,
+        "map": "de_overpass",
+        "score": "16:7"
+    },
+    {
+        "id": 380,
+        "date": "Tue 8th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "10:16"
+    },
+    {
+        "id": 381,
+        "date": "Mon 7th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 382,
+        "date": "Sun 6th Jun 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "15:15"
+    },
+    {
+        "id": 383,
+        "date": "Sun 6th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 384,
+        "date": "Sun 6th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:7"
+    },
+    {
+        "id": 385,
+        "date": "Sun 6th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 386,
+        "date": "Sat 5th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "9:16"
+    },
+    {
+        "id": 387,
+        "date": "Sat 5th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 388,
+        "date": "Sat 5th Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "7:16"
+    },
+    {
+        "id": 389,
+        "date": "Sat 5th Jun 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:11"
+    },
+    {
+        "id": 390,
+        "date": "Sat 5th Jun 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "12:16"
+    },
+    {
+        "id": 391,
+        "date": "Sat 5th Jun 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 392,
+        "date": "Fri 4th Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:5"
+    },
+    {
+        "id": 393,
+        "date": "Fri 4th Jun 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "11:5"
+    },
+    {
+        "id": 394,
+        "date": "Thu 3rd Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 395,
+        "date": "Thu 3rd Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "14:16"
+    },
+    {
+        "id": 396,
+        "date": "Wed 2nd Jun 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "1:16"
+    },
+    {
+        "id": 397,
+        "date": "Wed 2nd Jun 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 398,
+        "date": "Wed 2nd Jun 21",
+        "isBanned": false,
+        "map": "cs_office",
+        "score": "11:16"
+    },
+    {
+        "id": 399,
+        "date": "Thu 27th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "16:14"
+    },
+    {
+        "id": 400,
+        "date": "Thu 27th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "1:7"
+    },
+    {
+        "id": 401,
+        "date": "Thu 27th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:14"
+    },
+    {
+        "id": 402,
+        "date": "Wed 26th May 21",
+        "isBanned": true,
+        "map": "de_train",
+        "score": "8:16"
+    },
+    {
+        "id": 403,
+        "date": "Wed 26th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 404,
+        "date": "Wed 26th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:12"
+    },
+    {
+        "id": 405,
+        "date": "Tue 25th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 406,
+        "date": "Tue 25th May 21",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "9:7"
+    },
+    {
+        "id": 407,
+        "date": "Tue 25th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 408,
+        "date": "Tue 25th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:4"
+    },
+    {
+        "id": 409,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "14:16"
+    },
+    {
+        "id": 410,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "16:14"
+    },
+    {
+        "id": 411,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:3"
+    },
+    {
+        "id": 412,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_vertigo",
+        "score": "16:12"
+    },
+    {
+        "id": 413,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:10"
+    },
+    {
+        "id": 414,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "16:13"
+    },
+    {
+        "id": 415,
+        "date": "Mon 24th May 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 416,
+        "date": "Sat 22nd May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 417,
+        "date": "Fri 21st May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "8:16"
+    },
+    {
+        "id": 418,
+        "date": "Fri 21st May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "16:11"
+    },
+    {
+        "id": 419,
+        "date": "Fri 21st May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "7:16"
+    },
+    {
+        "id": 420,
+        "date": "Fri 21st May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:13"
+    },
+    {
+        "id": 421,
+        "date": "Thu 20th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:11"
+    },
+    {
+        "id": 422,
+        "date": "Thu 20th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "15:15"
+    },
+    {
+        "id": 423,
+        "date": "Thu 20th May 21",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "16:10"
+    },
+    {
+        "id": 424,
+        "date": "Thu 20th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:1"
+    },
+    {
+        "id": 425,
+        "date": "Thu 20th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:2"
+    },
+    {
+        "id": 426,
+        "date": "Thu 20th May 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:10"
+    },
+    {
+        "id": 427,
+        "date": "Wed 19th May 21",
+        "isBanned": false,
+        "map": "cs_office",
+        "score": "6:16"
+    },
+    {
+        "id": 428,
+        "date": "Wed 19th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "16:8"
+    },
+    {
+        "id": 429,
+        "date": "Wed 19th May 21",
+        "isBanned": false,
+        "map": "de_overpass",
+        "score": "5:16"
+    },
+    {
+        "id": 430,
+        "date": "Wed 19th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 431,
+        "date": "Wed 19th May 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "11:16"
+    },
+    {
+        "id": 432,
+        "date": "Wed 19th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "5:16"
+    },
+    {
+        "id": 433,
+        "date": "Mon 17th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "14:16"
+    },
+    {
+        "id": 434,
+        "date": "Mon 17th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:10"
+    },
+    {
+        "id": 435,
+        "date": "Mon 17th May 21",
+        "isBanned": false,
+        "map": "cs_office",
+        "score": "16:8"
+    },
+    {
+        "id": 436,
+        "date": "Mon 17th May 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:8"
+    },
+    {
+        "id": 437,
+        "date": "Mon 17th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 438,
+        "date": "Sat 15th May 21",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "4:16"
+    },
+    {
+        "id": 439,
+        "date": "Sat 15th May 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "15:15"
+    },
+    {
+        "id": 440,
+        "date": "Sat 15th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "8:16"
+    },
+    {
+        "id": 441,
+        "date": "Sat 15th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:9"
+    },
+    {
+        "id": 442,
+        "date": "Sat 15th May 21",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "12:16"
+    },
+    {
+        "id": 443,
+        "date": "Sat 15th May 21",
+        "isBanned": true,
+        "map": "de_dust2",
+        "score": "16:8"
+    },
+    {
+        "id": 444,
+        "date": "Sat 15th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "2:8"
+    },
+    {
+        "id": 445,
+        "date": "Fri 14th May 21",
+        "isBanned": false,
+        "map": "de_train",
+        "score": "16:2"
+    },
+    {
+        "id": 446,
+        "date": "Fri 14th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:7"
+    },
+    {
+        "id": 447,
+        "date": "Fri 14th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "16:7"
+    },
+    {
+        "id": 448,
+        "date": "Fri 14th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "13:16"
+    },
+    {
+        "id": 449,
+        "date": "Fri 14th May 21",
+        "isBanned": false,
+        "map": "de_inferno",
+        "score": "16:6"
+    },
+    {
+        "id": 450,
+        "date": "Thu 13th May 21",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:14"
+    },
+    {
+        "id": 451,
+        "date": "Thu 13th May 21",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "11:16"
+    },
+    {
+        "id": 452,
+        "date": "Fri 17th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "7:16"
+    },
+    {
+        "id": 453,
+        "date": "Thu 16th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "12:16"
+    },
+    {
+        "id": 454,
+        "date": "Wed 15th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 455,
+        "date": "Tue 14th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:14"
+    },
+    {
+        "id": 456,
+        "date": "Tue 14th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "13:16"
+    },
+    {
+        "id": 457,
+        "date": "Tue 14th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "9:16"
+    },
+    {
+        "id": 458,
+        "date": "Sun 12th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:10"
+    },
+    {
+        "id": 459,
+        "date": "Sun 12th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:9"
+    },
+    {
+        "id": 460,
+        "date": "Sun 12th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "12:16"
+    },
+    {
+        "id": 461,
+        "date": "Sat 11th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:7"
+    },
+    {
+        "id": 462,
+        "date": "Sat 11th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:7"
+    },
+    {
+        "id": 463,
+        "date": "Sat 11th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 464,
+        "date": "Sat 11th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:13"
+    },
+    {
+        "id": 465,
+        "date": "Sat 11th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:2"
+    },
+    {
+        "id": 466,
+        "date": "Fri 10th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "13:16"
+    },
+    {
+        "id": 467,
+        "date": "Fri 10th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:9"
+    },
+    {
+        "id": 468,
+        "date": "Fri 10th Jul 20",
+        "isBanned": false,
+        "map": "de_nuke",
+        "score": "15:15"
+    },
+    {
+        "id": 469,
+        "date": "Fri 10th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:12"
+    },
+    {
+        "id": 470,
+        "date": "Thu 9th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:8"
+    },
+    {
+        "id": 471,
+        "date": "Thu 9th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:11"
+    },
+    {
+        "id": 472,
+        "date": "Wed 8th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:6"
+    },
+    {
+        "id": 473,
+        "date": "Tue 7th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:4"
+    },
+    {
+        "id": 474,
+        "date": "Tue 7th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:14"
+    },
+    {
+        "id": 475,
+        "date": "Tue 7th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "13:16"
+    },
+    {
+        "id": 476,
+        "date": "Mon 6th Jul 20",
+        "isBanned": true,
+        "map": "de_nuke",
+        "score": "16:8"
+    },
+    {
+        "id": 477,
+        "date": "Mon 6th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "11:16"
+    },
+    {
+        "id": 478,
+        "date": "Mon 6th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 479,
+        "date": "Mon 6th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "11:16"
+    },
+    {
+        "id": 480,
+        "date": "Mon 6th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "12:16"
+    },
+    {
+        "id": 481,
+        "date": "Mon 6th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:12"
+    },
+    {
+        "id": 482,
+        "date": "Sun 5th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "13:16"
+    },
+    {
+        "id": 483,
+        "date": "Sun 5th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "12:16"
+    },
+    {
+        "id": 484,
+        "date": "Sun 5th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "13:5"
+    },
+    {
+        "id": 485,
+        "date": "Sun 5th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:10"
+    },
+    {
+        "id": 486,
+        "date": "Sat 4th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "10:16"
+    },
+    {
+        "id": 487,
+        "date": "Sat 4th Jul 20",
+        "isBanned": false,
+        "map": "de_dust2",
+        "score": "14:16"
+    },
+    {
+        "id": 488,
+        "date": "Sat 4th Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 489,
+        "date": "Sat 4th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "0:8"
+    },
+    {
+        "id": 490,
+        "date": "Sat 4th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "15:15"
+    },
+    {
+        "id": 491,
+        "date": "Sat 4th Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:9"
+    },
+    {
+        "id": 492,
+        "date": "Fri 3rd Jul 20",
+        "isBanned": true,
+        "map": "de_inferno",
+        "score": "12:16"
+    },
+    {
+        "id": 493,
+        "date": "Fri 3rd Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:5"
+    },
+    {
+        "id": 494,
+        "date": "Fri 3rd Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:5"
+    },
+    {
+        "id": 495,
+        "date": "Fri 3rd Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "8:16"
+    },
+    {
+        "id": 496,
+        "date": "Thu 2nd Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 497,
+        "date": "Thu 2nd Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 498,
+        "date": "Thu 2nd Jul 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 499,
+        "date": "Thu 2nd Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:3"
+    },
+    {
+        "id": 500,
+        "date": "Thu 2nd Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 501,
+        "date": "Wed 1st Jul 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "16:2"
+    },
+    {
+        "id": 502,
+        "date": "Tue 23rd Jun 20",
+        "isBanned": true,
+        "map": "de_mirage",
+        "score": "14:16"
+    },
+    {
+        "id": 503,
+        "date": "Mon 22nd Jun 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:9"
+    },
+    {
+        "id": 504,
+        "date": "Mon 22nd Jun 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:12"
+    },
+    {
+        "id": 505,
+        "date": "Mon 22nd Jun 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "10:16"
+    },
+    {
+        "id": 506,
+        "date": "Sun 21st Jun 20",
+        "isBanned": false,
+        "map": "de_mirage",
+        "score": "16:11"
+    }
+]
