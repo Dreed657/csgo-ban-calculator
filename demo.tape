@@ -1,7 +1,7 @@
 Output demo.gif
 
-Set FontSize 28
-Set Width 1000
+Set FontSize 24
+Set Width 1200
 Set Height 600
 
 Type "npm start"
